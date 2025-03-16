@@ -1,0 +1,7 @@
+.platform{
+    width: 20px;
+    height: 30px;
+    background-image: url(ground.png);
+    background-color: aqua;
+    position: absolute;
+}
